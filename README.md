@@ -17,7 +17,7 @@
 *Tugas1-a10  : Program Ganjil Genap `231031001-Jefri Al Buchari-tugas1-a10.py`
 *Tugas21-a10 : Program Penjumlahan Waktu `231031001-Jefri Al Buchari-tugas21-a10.py`
 *Tugas22-a10 : Program Selisih Waktu `231031001-Jefri Al Buchari-tugas22-a10.py`
-*Praktikum 11: Membuat program Rekursif `231031001-Jefri Al Buchari-praktikum-a11.py`
+*Praktikum 11: Membuat Program Rekursif `231031001-Jefri Al Buchari-praktikum-a11.py`
 *Latihan 1   : Latihan Penggunaan If Else `231031001-Jefri Al Buchari-latihan1.py`
 *Latihan 2   : Latihan Penggunaan If Else `231031001-Jefri Al Buchari-latihan2.py`
 *Latihan 3   : Latihan Penggunaan If Else Dengan Use Case yang Lebih Kompleks `231031001-Jefri Al Buchari-latihan3.py`
